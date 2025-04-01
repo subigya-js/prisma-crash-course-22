@@ -4,5 +4,5 @@ This is a crash course on prisma. Not an indepth series on prisma. This will get
 
 For more information you can visit the playlist on youtube.
 
-[Youtube playlist](youtube.com/watch?v=IiqhMNPWGEs&list=PLRAV69dS1uWTuDGJBa7UdqX_pxoEXy00p)
+[Youtube playlist](https://www.youtube.com/watch?v=IiqhMNPWGEs&list=PLRAV69dS1uWTuDGJBa7UdqX_pxoEXy00p)
 
